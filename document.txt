@@ -1,0 +1,7 @@
+T-1 https://www.youtube.com/watch?v=hf4k4OWlBfI&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa
+
+T-2 https://www.youtube.com/watch?v=vLeY9fkdWiU&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=2
+
+T-3 https://www.youtube.com/watch?v=ZBsm7mX4cE4&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=3
+
+T-4 https://www.youtube.com/watch?v=_1N8dKsQ8JE&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=4

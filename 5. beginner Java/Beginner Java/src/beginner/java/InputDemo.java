@@ -15,14 +15,40 @@ public class InputDemo {
      * take user input and print it
      */
     
-    Scanner input = new Scanner (System.in);
+//    Scanner input = new Scanner (System.in);
+//    
+//    int number;
+//    
+//        System.out.print("Enter any number : ");
+//        number=input.nextInt();
+//        
+//        System.out.println("Number = "+number);
     
-    int number;
-    
-        System.out.println("Enter any number : ");
-        number=input.nextInt();
+        /**
+     * take user input name and print it
+     */
         
-        System.out.println("Number = "+number);
-    
+//        Scanner input =new Scanner (System.in);
+//        
+//        String name;
+//        
+//        System.out.print("Enter your name : ");
+//        
+//        //name= input.next(); //its only read first part of name
+//        
+//        name=input.nextLine(); //its read total name
+//        System.out.println("Welcome "+name);
+
+
+/**
+     * take user input double and print it
+     */
+Scanner input =new Scanner (System.in);
+double number;
+System.out.print("Enter any number : ");
+
+number=input.nextDouble(); //use for double input value
+System.out.println("Number = "+number);
+
     }
 }

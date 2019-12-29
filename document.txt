@@ -5,3 +5,15 @@ T-2 https://www.youtube.com/watch?v=vLeY9fkdWiU&list=PLgH5QX0i9K3oAZUB2QXR-dZac0
 T-3 https://www.youtube.com/watch?v=ZBsm7mX4cE4&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=3
 
 T-4 https://www.youtube.com/watch?v=_1N8dKsQ8JE&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=4
+
+T-5 https://www.youtube.com/watch?v=jZlMh69-45c&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=5
+
+T-6 https://www.youtube.com/watch?v=IKIVEPRW6uM&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=6
+
+T-7 https://www.youtube.com/watch?v=8Udh2XRF2gc&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=7
+
+T-8 https://www.youtube.com/watch?v=ZLPY87bWO6k&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=8
+
+T-9 https://www.youtube.com/watch?v=glkZLc9jnCw&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=9
+
+T-10 https://www.youtube.com/watch?v=Po8bPEFsnow&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=10

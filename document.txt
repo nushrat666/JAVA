@@ -23,3 +23,9 @@ T-11 https://www.youtube.com/watch?v=sMbDqDG56Zw&list=PLgH5QX0i9K3oAZUB2QXR-dZac
 T-12 https://www.youtube.com/watch?v=YDbN8R00vY0&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=12
 
 T-13 https://www.youtube.com/watch?v=GVHCWFbSudM&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=13
+
+T-14 https://www.youtube.com/watch?v=VevKmDVtB1s&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=14
+
+T-15 https://www.youtube.com/watch?v=6qPXOplc6uA&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=15
+
+T-16 https://www.youtube.com/watch?v=eSU34np9DLc&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=16

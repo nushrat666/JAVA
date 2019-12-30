@@ -33,3 +33,9 @@ T-16 https://www.youtube.com/watch?v=eSU34np9DLc&list=PLgH5QX0i9K3oAZUB2QXR-dZac
 T-17 https://www.youtube.com/watch?v=MddtJbNvxMQ&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=17
 
 T-18 https://www.youtube.com/watch?v=PWaVjoY0clQ&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=18
+
+T-19 https://www.youtube.com/watch?v=vP0XFm0BV3U&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=19
+
+T-20 https://www.youtube.com/watch?v=ioQRYoE0Y04&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=20
+
+T-21 https://www.youtube.com/watch?v=6k0rDeGplwE&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=21

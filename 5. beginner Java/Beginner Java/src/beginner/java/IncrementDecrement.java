@@ -38,14 +38,15 @@ public class IncrementDecrement {
     y=--x;
         System.out.println("y = "+y); //y=24
             
-    y=x--;
-        System.out.println("y = "+y); //y=25
+    y=x--;//post fix
+        System.out.println("y = "+y); //y=24
         
-        y=++x;
-        System.out.println("y = "+y); //y=26
+        y=++x;//because it is post fix y=x--, again then get x in y=++x, thats why 24-1=23
+              //then for y=++x, it should be 23+1=24
+        System.out.println("y = "+y); //y=24
         
         y=x++;
-        System.out.println("y = "+y); //y=25
+        System.out.println("y = "+y); //y=24
     
     }
     

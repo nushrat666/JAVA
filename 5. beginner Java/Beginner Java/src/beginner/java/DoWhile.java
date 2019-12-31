@@ -47,5 +47,5 @@ int i=6;
          System.out.println(i);
         i++;
     }while (i<=5);
-    }
+    }// at least print one line 
 }

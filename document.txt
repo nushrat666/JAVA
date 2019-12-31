@@ -53,3 +53,9 @@ T-26 https://www.youtube.com/watch?v=3E4UB_RYY_c&list=PLgH5QX0i9K3oAZUB2QXR-dZac
 T-27 https://www.youtube.com/watch?v=AVKvaIAWKYQ&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=27
 
 T-28 https://www.youtube.com/watch?v=e3GWjcY478Y&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=28
+
+T-29 https://www.youtube.com/watch?v=sDNrL8xoRx0&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=29
+
+T-30 https://www.youtube.com/watch?v=fsnGj9mhCIA&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=30
+
+T-31 https://www.youtube.com/watch?v=m0Kkv3mWQOg&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=31

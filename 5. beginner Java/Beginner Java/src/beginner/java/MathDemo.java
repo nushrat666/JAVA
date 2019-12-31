@@ -28,13 +28,46 @@ public class MathDemo {
 //
 //        System.out.println("Minimum value : "+min);
     
-    int x=-10;
+//    int x=-10;
+//    
+//    int absolute = Math.abs(x);
+//    
+//        System.out.println("Absolute Value : "+absolute);
+//    
+
+//int x=2;
+//int y=4;
+//
+//double power =Math.pow(x, y);
+//        System.out.println("x to the power y : "+power);
+//    
+
+
+//int round=Math.round(8.8f);
+//        System.out.println("Round of 8.8 : "+round);
     
-    int absolute = Math.abs(x);
+//    int round=Math.round(8.4f);
+//        System.out.println("Round of 8.4 : "+round);
+//    
     
-        System.out.println("Absolute Value : "+absolute);
-    
-    
+//        System.out.println(Math.PI);
+
+
+double pi=Math.PI;
+        System.out.println("The Value of Pi : "+pi);
+
+
+
+
+
+
+
+
+
+
+
+
+
     }
            
 }

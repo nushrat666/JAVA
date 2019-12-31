@@ -39,3 +39,13 @@ T-19 https://www.youtube.com/watch?v=vP0XFm0BV3U&list=PLgH5QX0i9K3oAZUB2QXR-dZac
 T-20 https://www.youtube.com/watch?v=ioQRYoE0Y04&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=20
 
 T-21 https://www.youtube.com/watch?v=6k0rDeGplwE&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=21
+
+T-22 https://www.youtube.com/watch?v=NDtRRR3WDL0&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=22
+
+T-23 https://www.youtube.com/watch?v=hRUkljRO25g&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=23
+
+T-24 https://www.youtube.com/watch?v=LWvia2PQh4k&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=24
+
+T-25 https://www.youtube.com/watch?v=TllHVJGEY5A&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=25
+
+T-26 https://www.youtube.com/watch?v=3E4UB_RYY_c&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=26

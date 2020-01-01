@@ -59,29 +59,24 @@ public class Loop1 {
 //        System.out.println();
 //        System.out.println("The sum is : " +sum);
     
-    
-    
-    /**
-     * for testing purpose
-     */
-    Scanner input =new Scanner (System.in);
+    Scanner input=new Scanner (System.in);
     int m,n;
     int sum=0;
         System.out.print("Enter initial number : ");
         m=input.nextInt();
         
-     System.out.print("Enter final number : ");
+        System.out.print("Enter final number : ");
         n=input.nextInt();
-    for(int i=m;i<=n;i++){
         
-        if(i%2==0){
-            sum=sum+i;
-            System.out.print(" "+i);
-        }
-    }
-        System.out.println("");
-        System.out.println("The Sum is : "+sum);
-        
+   for(int i=m;i<=n;i++){
+       if(i%2==0){
+           sum=sum+i;
+           System.out.print(" "+i);
+       }
+       
+   }
+        System.out.println();
+        System.out.println("The sum is : "+sum);   
     }
     
     

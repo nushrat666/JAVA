@@ -97,7 +97,7 @@ public class Series1 {
         for (int i = 1; i <= n; i=i+1) {
             
             sum= sum+i*i;
-            System.out.print(" "+i+"*"+i);
+            System.out.print(" "+i+"*"+i  );
         }
         System.out.println();
         System.out.println("The sum is : "+sum);

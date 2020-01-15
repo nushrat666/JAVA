@@ -71,8 +71,8 @@ T-35 https://www.youtube.com/watch?v=5M5g24RQfwE&list=PLgH5QX0i9K3oAZUB2QXR-dZac
 T-36 https://www.youtube.com/watch?v=djB0qWh2yiY&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=36
 
 T-37 https://www.youtube.com/watch?v=9uprdqZmQ2A&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=37
-7.29
 
+T-38 https://www.youtube.com/watch?v=T8CRalD1mgc&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=38
 
 
 

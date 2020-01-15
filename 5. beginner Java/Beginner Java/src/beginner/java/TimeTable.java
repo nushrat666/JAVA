@@ -15,7 +15,9 @@ public class TimeTable {
 //            System.out.println(num+"*"+i+" = "+num*i);
 //        }
        
-
+/**
+ * Nested for loop
+ */
 Scanner input= new Scanner(System.in);
 int m,n;
 

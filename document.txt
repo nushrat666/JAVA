@@ -102,4 +102,6 @@ T-51 https://www.youtube.com/watch?v=CulauAqd7AA&list=PLgH5QX0i9K3oAZUB2QXR-dZac
 
 T-52 https://www.youtube.com/watch?v=PEv0gtMdMdA&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=52
 
+T-53 https://www.youtube.com/watch?v=DuyMEGxd-BI&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=53
+
 

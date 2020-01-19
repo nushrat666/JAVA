@@ -104,4 +104,6 @@ T-52 https://www.youtube.com/watch?v=PEv0gtMdMdA&list=PLgH5QX0i9K3oAZUB2QXR-dZac
 
 T-53 https://www.youtube.com/watch?v=DuyMEGxd-BI&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=53
 
+T-54 https://www.youtube.com/watch?v=1LIbHvJX-1w&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=54
 
+T-55 https://www.youtube.com/watch?v=7gfVMC7x_QM&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=55

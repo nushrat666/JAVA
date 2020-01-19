@@ -90,6 +90,9 @@ T-45 https://www.youtube.com/watch?v=1rVaH6_L3iQ&list=PLgH5QX0i9K3oAZUB2QXR-dZac
 
 T-46 https://www.youtube.com/watch?v=4xff-zaIkac&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=46
 
+T-47 https://www.youtube.com/watch?v=MWORULBTt-o&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=47
+
+T-48 https://www.youtube.com/watch?v=2gRsO3GZkYE&list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa&index=48
 
 
 
